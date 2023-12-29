@@ -1,1 +1,8 @@
-![openin collab](https://github.com/Graizelle/automatic1111-colab/assets/154618926/659a8e01-15ee-43cb-a344-293971337779)
+## Colab notebook for running Stable-Diffusion-webui. 
+
+Notebook is defaulted for running from gdrive. command args set --enable-insecure-extension-access to allow easier extension setup and persistance. 
+
+
+<a target="_blank" href="https://colab.research.google.com/github/Graizelle/automatic1111-colab/blob/main/Gz_automatic1111_tweaked.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
