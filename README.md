@@ -1,4 +1,4 @@
-## Colab notebook for running Stable-Diffusion-webui. 
+## Colab notebook for running Automatic1111 Stable-Diffusion-webui
 
 Notebook is defaulted for running from gdrive. command args set --enable-insecure-extension-access to allow easier extension setup and persistance. 
 
